@@ -1,0 +1,5 @@
+node(50.0359001,19.8923,50.088,20.0051994);
+out;
+
+
+The map fragment was pulled by querying the Overpass API. It is a part of Krakow, the second biggest city in Poland, where I work and live. The fragment contains the historical districts of the city, as well as the district where I reside.
